@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB4F64FC29A90561001DDBE2 /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F64FB29A90561001DDBE2 /* CaptionOption.swift */; };
 		EB53314429A7B08D00EB428C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB53314329A7B08D00EB428C /* AppDelegate.swift */; };
 		EB53314629A7B08D00EB428C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB53314529A7B08D00EB428C /* SceneDelegate.swift */; };
 		EB53314829A7B08D00EB428C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB53314729A7B08D00EB428C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EB4F64FB29A90561001DDBE2 /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 		EB53314029A7B08D00EB428C /* MemeMaker23.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MemeMaker23.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB53314329A7B08D00EB428C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB53314529A7B08D00EB428C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +26,8 @@
 		EB53314C29A7B09100EB428C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB53314F29A7B09100EB428C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB53315129A7B09100EB428C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB53315729A7B1CD00EB428C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EB53315829A7B27600EB428C /* MemeMaker Phrases.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "MemeMaker Phrases.rtf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,8 @@
 		EB53313729A7B08D00EB428C = {
 			isa = PBXGroup;
 			children = (
+				EB53315829A7B27600EB428C /* MemeMaker Phrases.rtf */,
+				EB53315729A7B1CD00EB428C /* README.md */,
 				EB53314229A7B08D00EB428C /* MemeMaker23 */,
 				EB53314129A7B08D00EB428C /* Products */,
 			);
@@ -58,6 +64,7 @@
 			children = (
 				EB53314329A7B08D00EB428C /* AppDelegate.swift */,
 				EB53314529A7B08D00EB428C /* SceneDelegate.swift */,
+				EB4F64FB29A90561001DDBE2 /* CaptionOption.swift */,
 				EB53314729A7B08D00EB428C /* ViewController.swift */,
 				EB53314929A7B08E00EB428C /* Main.storyboard */,
 				EB53314C29A7B09100EB428C /* Assets.xcassets */,
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB53314829A7B08D00EB428C /* ViewController.swift in Sources */,
+				EB4F64FC29A90561001DDBE2 /* CaptionOption.swift in Sources */,
 				EB53314429A7B08D00EB428C /* AppDelegate.swift in Sources */,
 				EB53314629A7B08D00EB428C /* SceneDelegate.swift in Sources */,
 			);
@@ -293,8 +301,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -321,8 +329,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
