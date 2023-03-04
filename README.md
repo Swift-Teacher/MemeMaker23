@@ -1,4 +1,4 @@
-#  MemeMaker 📸🖼️
+#  MemeMaker23 📸🖼️
 A single-view application that places text phrases at the top and bottom of a static photo.
 This app is created as part of **Develop in Swift AP CS Principles** ([Teacher](https://books.apple.com/us/book/develop-in-swift-ap-cs-principles-teacher-guide/id1581182833) and [Student](https://books.apple.com/us/book/develop-in-swift-ap-cs-principles/id1581182719)) course and Apple's **Develop in Swift Explorations** ([Teacher](https://books.apple.com/us/book/develop-in-swift-explorations-teacher-guide/id1511184084) and [Student](https://books.apple.com/us/book/develop-in-swift-explorations/id1511184149)) course. The project can be found in Unit 4 starting on page 384 in the Student book and starting on page 589 in the Teacher Guide. 
 
