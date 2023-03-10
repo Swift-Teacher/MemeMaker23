@@ -8,7 +8,7 @@ This project works under the assumption that you or your students are learning t
 
 
 ## Purpose 🖥 💻 📱
-This a great app project that introduces students to the segmented control action, implementing and learning about gesture recognizers, layering storyboard elements, practice with storing data in an array, and making an app that is fun to build and fun to create.
+This is a great app project that introduces students to the segmented control action, implementing and learning about gesture recognizers, layering storyboard elements, practice with storing data in an array, and making an app that is fun to build and fun to create.
 
 The project enables students to build another app from scratch including the planning and prototyping process of storyboarding the app in Keynote.
 
@@ -20,7 +20,7 @@ The general process and flow of this project is in the format of an Apple Teache
 You can learn more about and sign up for Apple Teacher here: [Apple Teacher](https://www.apple.com/education/k12/teacher-resources/). 
 
 ### Activate
-We want our students to activate any prior knowledge on the topic. Since the students have previously made the MemeMaker app, they will all have the starting point of the project. However, the goal of the project is to greatly improve the app and enable the user to use their own photos create a meme. Here is the activity I use with my students:
+We want our students to activate any prior knowledge on the topic. Since the students have previously made the MemeMaker app, they will all have the starting point of the project. However, the goal of the project is to greatly improve the app and enable the user to use their own photos to create a meme. Here is the activity I use with my students:
 
 1. Take a selfie.
 2. Open Keynote and pick a basic white or basic black project.
