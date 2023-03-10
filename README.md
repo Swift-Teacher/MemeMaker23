@@ -10,7 +10,7 @@ This project works under the assumption that you or your students are learning t
 ## Purpose 🖥 💻 📱
 This a great app project that introduces students to the segmented control action, implementing and learning about gesture recognizers, layering storyboard elements, practice with storing data in an array, and making an app that is fun to build and fun to create.
 
-The project enables students to build another app from scratch including the planning and prototying process of storyboarding the app in Keynote.
+The project enables students to build another app from scratch including the planning and prototyping process of storyboarding the app in Keynote.
 
 ## Process 👩🏾‍🏫 👨🏻‍🏫 👨🏻‍💻 👩🏽‍💻
 The general process and flow of this project is in the format of an Apple Teacher Portfolio lesson. There are three parts/phases to the lesson
