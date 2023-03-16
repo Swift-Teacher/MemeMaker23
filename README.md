@@ -12,6 +12,17 @@ This is a great app project that introduces students to the segmented control ac
 
 The project enables students to build another app from scratch including the planning and prototyping process of storyboarding the app in Keynote.
 
+### Learning Goal
+Students will complete a Meme Maker app from scratch. Students will review a variety of concepts covered in the course and build the user interface, the model data, and the controller objects that make up the entire application.
+
+### Ohio CS Standard(s)
+1. ATP.CS.9-12.A.a - Write programs that use library methods and control structures and methods to solve a problem.
+2. ATP.M.9-12.A.c - Create programming solutions by reusing existing code (e.g., libraries, Application Programming Interface (APIs), code repositories).
+3. ATP.VDR.9-12.F.a - Identify types of variables and data and utilize them to create a computer program that stores data in appropriate ways.
+4. ATP.PD.3.a - Use a design process to plan the development of a program that solves problems.
+5. ATP.PD.3.b - Using a given program known to contain errors, identify and debug errors to ensure it works.
+6. ATP.M.9-12.A.b - Design or redesign a solution to a large-scale computational problem by identifying generalizable patterns.
+
 ## Process 👩🏾‍🏫 👨🏻‍🏫 👨🏻‍💻 👩🏽‍💻
 The general process and flow of this project is in the format of an Apple Teacher Portfolio lesson. There are three parts/phases to the lesson
 - Activate
@@ -28,7 +39,7 @@ We want our students to activate any prior knowledge on the topic. Since the stu
 4. You can adjust the transparency level of the picture to mimic a filter feature.
 5. Add a text box to the top and bottom of your slide.
 6. Add phrases of your choosing to your textbooks. 
-7. Think, pair, share with a partner about how easy it was to make your meme and how we could make the process of making the meme easier
+7. Think, pair, share with a partner about how easy it was to make your meme and how we could make the process of making the meme easier.
 
 ### Explore
 Students will now create a prototype of a meme making app.
@@ -46,6 +57,8 @@ In this part of the project we build the app.
 1. The instructions and process of building the app starts on page 384 in the student book.
 2. Individual steps and further explanations can be found as comments in each code file in the project.
 
+### Assessment
+Students will demonstrate a fully functional app that operates as intended. The demonstration will be done in the iOS Simulator app and recorded using the built-in macOS screen recorder (shift-command-5). Students submit their screen recording and a PDF of their code.
 
 ### Extend
 If you would like to extend this project to include extra functionality of picking an image from the user's photo library and saving the meme you can find how to do it here: [MemeMaster](https://github.com/Swift-Teacher/MemeMaster).
